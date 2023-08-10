@@ -1,5 +1,4 @@
-# GIYH
-2015 SANS Holiday Hack scripts and aids
+# GIYH: 2015 SANS Holiday Hack scripts and aids
 
 Each December, security training and certification company SANS puts together a highly anticipated hacking challenge. These challenges are a variation on Capture the Flag – digital puzzles designed to test our skills (and in many cases, excuses to learn new techniques). In addition to being a fun way to compete with peers, learning new attack techniques is a great first step toward learning how to detect and defend against the same attacks.
 
